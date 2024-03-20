@@ -1,4 +1,5 @@
 # Premier League Matches Prediction
+This project involves data analytics and machine learning techniques to predict football match outcomes.
 
 ## Run Streamlit
 ```
